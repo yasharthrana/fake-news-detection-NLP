@@ -1,6 +1,6 @@
 # Fake News Detection using NLP
 
-This project uses Natural Language Processing (NLP) and machine learning techniques to detect fake news based on textual data.
+This project uses Natural Language Processing (NLP) and machine learning techniques to detect fake news based on textual data in a dataset
 
 ## Overview
 
