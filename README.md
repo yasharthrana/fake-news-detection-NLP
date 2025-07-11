@@ -15,7 +15,6 @@ Fake news detection is an important task in the age of information. The project 
 - Evaluation of model performance
 
 ## Dataset
-
 The dataset contains labeled news articles classified as **real** or **fake**.  
 *(Add dataset source or link here if it’s public.)*
 
